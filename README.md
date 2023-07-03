@@ -1,4 +1,4 @@
-# PI1_camila
+# PI1_camila_criado : SISTEMA DE RECOMENDACION DE PELICULAS
 En este Repositorio se presenta el Primer Trabajo Individual De Camila Criado, Alumna de Part-Time Data Science en Henry
 
 El trabajo consiste en el analisis de dos data sets sobre peliculas. Incluye una limpieza y proceso de trasnsformación de datos, un análisis exploratorio

@@ -1,6 +1,5 @@
 fastapi
 pandas
-pydantic
 python-dateutil
 python-dotenv
 scikit-learn
